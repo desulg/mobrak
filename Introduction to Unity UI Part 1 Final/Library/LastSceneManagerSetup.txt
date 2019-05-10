@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/rihon/Desktop/mobrak/Introduction to Unity UI Part 1 Starter/Assets/RW/Scenes/RocketMouse.unity
+  isLoaded: 1
+  isActive: 1
