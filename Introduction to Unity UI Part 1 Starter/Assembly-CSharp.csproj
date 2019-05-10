@@ -67,10 +67,10 @@
     <Compile Include="Assets\RocketMouse\Scripts\ParticleSortingLayerFIx.cs" />
     <Compile Include="Assets\RW\Scripts\UIManager.cs" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>C:/Users/Dennis/Documents/Github/mobrakAts/Introduction to Unity UI Part 1 Starter/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/Dennis/Documents/Github/mobrakAtsK/Introduction to Unity UI Part 1 Starter/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/Dennis/Documents/Github/mobrakAts/Introduction to Unity UI Part 1 Starter/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/Dennis/Documents/Github/mobrakAtsK/Introduction to Unity UI Part 1 Starter/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
