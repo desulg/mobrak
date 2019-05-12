@@ -7,6 +7,7 @@ Juhend oli väga loogiliselt üles ehitatud. Juhendis oli kõik väga hästi sel
 Kõige parem osa juhendist oli see, et juhendi sees oli ka ülesandeid, ehk sellised meetodid, mis kordusid ja olid eelnevalt juba seletatud, olid kirjas ülesandena ja vajaduse korral sai vaadata õpetust ülesande lahendamiseks.
 
 Git projektis on README.md, kus kirjeldatakse vajalikest muutustest seoses SDK versiooni muutustega. 
+SDK muudatusi tegema ei pidanud, sest Unity teeb kasutaja eest ära vajalikud muudatused, kui vaja.
 
 
 Git projektis on README.md, kus kirjeldatakse juhendi muudest muutustest rakenduse terviklikumaks muutmise nimel. 
