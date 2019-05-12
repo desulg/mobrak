@@ -11,3 +11,4 @@ SDK muudatusi tegema ei pidanud, sest Unity teeb kasutaja eest ära vajalikud mu
 
 
 Git projektis on README.md, kus kirjeldatakse juhendi muudest muutustest rakenduse terviklikumaks muutmise nimel. 
+Kuna päris üks ühele ei saanud teha, siis pidi erinevate animatsioonide ja positsioneerimistega rohkem vaeva näha, et kõik ikka toimiks nii nagu ta seda võiks teha.
