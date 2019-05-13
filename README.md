@@ -8,6 +8,7 @@ Projektil polnud vaja erilisii seadistamisi, sest kõik toimub lõpus kui hakata
 Otsustasime valida Unity platvormi, sest see oli kõige hiljutisem, mida kõik kasutanud on ja on väskelt meeles. Samuti on seal kõik üsna arusaadav, võimalusi palju. Väga hea võimalus kohe jooksvalt rakendust proovida ja testida ka - ei pea kohe emulatorit kasutama, saab ka Unity siseselt teha. Lisaks on mänge ikka ägedam teha.
 
 9. Git projektis on README.md, kus kirjeldatakse iga liikme panus (1 lõik inimese kohta).
+
 Dennis:
   Esialgse faili tegemine ja repo seadistamine võimalikult sujuvaks koostööks. Mängu esimene vaade ehk pilt ja nupud. Lisatud sai neile ka väikesti viisi funktsionaalsust ja suur osa animatsioone (et liiguks eest ära igal vajutusel ja ei takistaks teineteist). Lisatud ka vajalikud fontid ja muud assetid. Tegelesin ka readme täiendamisega.
   
