@@ -14,7 +14,7 @@ Dennis:
   
 Riho: Peamenüüs settings dialoogi sätestamine ning heli kontrolli loomine. Muusika lisamine peamenüüsse. Animatsioonide tegemine ning selle kõige loogika.
 
-Ats: Peamenüüs settings nupu animeerimine ning erinevate testide tegemine. Lisaks sellele aitasin kaasa ka README.md faili tegemisel.
+Ats: Peamenüüs settings nupu animeerimine ning erinevate testide tegemine. Samuti sättisin resolutsiooni jms, et mäng töötaks testitava telefoni pealt õigest. Lisaks sellele aitasin kaasa ka README.md faili tegemisel.
   
 10. Git projektis on README.md, kus kirjeldatakse rakenduse idee (min 2 lõiku).
 Rakenduse idee on pakkuda kasutajale meelelahutust ja tuua tagasi mälestusi mängudest, mida enam väga ei toodeta ja mida sai kunagi palju mängida. Kuna me ise olime ka paar aastat tagasi samade mängude küüsis, siis oli kodune tunne naasta sellise žanri juurde.
