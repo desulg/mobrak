@@ -20,3 +20,6 @@ Ats: Peamenüüs settings nupu animeerimine ning erinevate testide tegemine. Lis
 Rakenduse idee on pakkuda kasutajale meelelahutust ja tuua tagasi mälestusi mängudest, mida enam väga ei toodeta ja mida sai kunagi palju mängida. Kuna me ise olime ka paar aastat tagasi samade mängude küüsis, siis oli kodune tunne naasta sellise žanri juurde.
 
 Rakenduse idee on ka näidata, et mobiilmmängud, mis on väga kuulsaks ja edukaks saanud, ei nõua suuri jõude, vaid saab hakkama ka minimaalsete jõududega. Igaüks saab alla laadida Unity ja teha valmis mäng, mida hiljem ka üles laadida.
+
+
+https://drive.google.com/file/d/10Xf4wItS7Tjgd4sN6Onbvkau_U4WaUK4/view?usp=sharing
